@@ -1,0 +1,47 @@
+---
+title: "Data Science Capstone 2023-01-18"
+format: html
+---
+
+# What are we going to do?
+
+# Syllabus
+
+# Project Description
+
+1. You should work in groups of 2-5.
+2. All of your analysis artifacts (except large or sensitive data) will go on Github.
+3. It is probably a good idea to designate a "project manager."
+4. You may act as your own PI but it will require you to have knowledge about the domain.
+
+# What projects do I currently have?
+
+1. UK Biobank data 
+  - Daytime vigilance
+  - Accelerometry
+  - Medical conditions
+  
+2. Sickle-cell disease
+  - Predictive analytics for decision support
+  
+3. Survey-EHR Matching 
+  - Shiny app development 
+  - Evaluate deep-learning based matching of surveys to EHR's
+  
+4. Estimating interim probability of success of Phase 2 trials
+
+# [Research Question](https://en.wikipedia.org/wiki/Research_question)
+
+- Scientific question
+- Statistical hypothesis
+
+# Writing a research proposal
+
+- ["What makes a well-written grant proposal" Tweet](https://twitter.com/AndreasZeller/status/1615675920538296320)
+- A current grant proposal of mine.
+- [My NIH template](https://github.com/kaneplusplus/nih-rmd-template)
+
+# Next time:
+
+- Updates on forming a group and choosing a project.
+- Using ChatGPT with your writing.
